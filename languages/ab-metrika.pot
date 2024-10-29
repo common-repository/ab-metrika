@@ -1,0 +1,288 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-18 16:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+#: ab-metrika.php:50 ab-metrika.php:51
+msgid "AB Metrika"
+msgstr ""
+
+#: ab-metrika.php:58 ab-metrika.php:59 includes/page-admin-counters.php:21
+#: includes/page-admin-counters.php:39
+msgid "Yandex.Metrica"
+msgstr ""
+
+#: ab-metrika.php:65 ab-metrika.php:66
+msgid "Counters settings"
+msgstr ""
+
+#: ab-metrika.php:72 ab-metrika.php:73
+msgid "Settings"
+msgstr ""
+
+#: includes/page-admin-counters.php:9 includes/admin-counters.php:27
+msgid "Yandex.Webmaster"
+msgstr ""
+
+#: includes/page-admin-counters.php:11
+msgid "Yandex.Webmaster HTML verification code"
+msgstr ""
+
+#: includes/page-admin-counters.php:12 includes/page-admin-counters.php:58
+msgid "Insert code"
+msgstr ""
+
+#: includes/page-admin-counters.php:14 includes/page-admin-counters.php:59
+msgid "My sites"
+msgstr ""
+
+#: includes/page-admin-counters.php:15
+msgid "Add site"
+msgstr ""
+
+#: includes/page-admin-counters.php:23 includes/page-admin-counters.php:66
+msgid "HTML code counter"
+msgstr ""
+
+#: includes/page-admin-counters.php:25
+msgid "My counters"
+msgstr ""
+
+#: includes/page-admin-counters.php:26
+msgid "Add counter"
+msgstr ""
+
+#: includes/page-admin-counters.php:39 includes/page-admin-counters.php:79
+msgid "Location counter"
+msgstr ""
+
+#: includes/page-admin-counters.php:43 includes/page-admin-counters.php:83
+msgid "Towards the end of the page"
+msgstr ""
+
+#: includes/page-admin-counters.php:45 includes/page-admin-counters.php:85
+msgid "Closer to the top of the page"
+msgstr ""
+
+#: includes/page-admin-counters.php:47 includes/page-admin-counters.php:87
+msgid "Custom place"
+msgstr ""
+
+#: includes/page-admin-counters.php:50
+msgid ""
+"<i>Select the place of installation of the counter: at the beginning of page,"
+" end of page or in custom place. For installation in custom place use "
+"shortcode </i><code>[ab-metrika-counter id=\"metrika\"]</code><i> or in the "
+"theme file of the website </i><code>&lt;?php echo do_shortcode('[ab-metrika-"
+"counter id=\"metrika\"]'); ?&gt;</code>"
+msgstr ""
+
+#: includes/page-admin-counters.php:56
+msgid "Google Search Console"
+msgstr ""
+
+#: includes/page-admin-counters.php:57
+msgid "Google Search Console HTML verification code"
+msgstr ""
+
+#: includes/page-admin-counters.php:64 includes/page-admin-counters.php:67
+#: includes/page-admin-counters.php:79
+msgid "Google Analytics"
+msgstr ""
+
+#: includes/page-admin-counters.php:90
+msgid ""
+"<i>Select the place of installation of the counter: at the beginning of page,"
+" end of page or in custom place. For installation in custom place use "
+"shortcode </i><code>[ab-metrika-counter id=\"analytics\"]</code><i> or in "
+"the theme file of the website </i><code>&lt;?php echo do_shortcode('[ab-"
+"metrika-counter id=\"analytics\"]'); ?&gt;</code>"
+msgstr ""
+
+#: includes/page-admin-metrica-settings.php:2
+msgid "Configuration Yandex.Metrica"
+msgstr ""
+
+#: includes/page-admin-metrica-settings.php:10
+msgid "To display data, you must configure the following:"
+msgstr ""
+
+#: includes/page-admin-metrica-settings.php:12
+msgid "Allow access to the plugin and get the Token"
+msgstr ""
+
+#: includes/page-admin-metrica-settings.php:13
+msgid "Enter the Token and click \"Save\""
+msgstr ""
+
+#: includes/page-admin-metrica-settings.php:14
+msgid "Choose the counter that need to display, and then click \"Save\""
+msgstr ""
+
+#: includes/page-admin-metrica-settings.php:19
+#: includes/page-admin-metrica-settings.php:21
+msgid "Yandex.metrica"
+msgstr ""
+
+#: includes/page-admin-metrica-settings.php:19
+#: includes/page-admin-metrica-settings.php:21
+msgid "Token"
+msgstr ""
+
+#: includes/page-admin-metrica-settings.php:26
+msgid "Counter"
+msgstr ""
+
+#: includes/admin-metrica.php:69 includes/admin-metrica.php:105
+#: includes/page-admin-metrica-view-data.php:13
+#: includes/page-admin-metrica-view-data.php:23
+msgid "Visits"
+msgstr ""
+
+#: includes/admin-metrica.php:70
+msgid "Views"
+msgstr ""
+
+#: includes/admin-metrica.php:71
+msgid "Visitors"
+msgstr ""
+
+#: includes/admin-metrica.php:72
+msgid "Proportion of new visitors"
+msgstr ""
+
+#: includes/admin-metrica.php:73
+msgid "Refusal"
+msgstr ""
+
+#: includes/admin-metrica.php:74
+msgid "Depth of view"
+msgstr ""
+
+#: includes/admin-metrica.php:75
+msgid "Time, min."
+msgstr ""
+
+#: includes/admin-metrica.php:92
+msgid "Visits for the year"
+msgstr ""
+
+#: includes/admin-metrica.php:94
+msgid "Visits for the quarter"
+msgstr ""
+
+#: includes/admin-metrica.php:96
+msgid "Visits for the month"
+msgstr ""
+
+#: includes/admin-metrica.php:98
+msgid "Visits per week"
+msgstr ""
+
+#: includes/admin-metrica.php:107
+msgid "Source"
+msgstr ""
+
+#: includes/admin-metrica.php:260
+msgid "Today"
+msgstr ""
+
+#: includes/admin-metrica.php:263
+msgid "Yesterday"
+msgstr ""
+
+#: includes/admin-metrica.php:266
+msgid "Week"
+msgstr ""
+
+#: includes/admin-metrica.php:269
+msgid "Month"
+msgstr ""
+
+#: includes/admin-metrica.php:272
+msgid "Quarter"
+msgstr ""
+
+#: includes/admin-metrica.php:275
+msgid "Year"
+msgstr ""
+
+#: includes/admin-metrica.php:278
+msgid "Detail"
+msgstr ""
+
+#: includes/admin-metrica.php:282
+msgid "by hours"
+msgstr ""
+
+#: includes/admin-metrica.php:287
+msgid "by day"
+msgstr ""
+
+#: includes/admin-metrica.php:292
+msgid "by week"
+msgstr ""
+
+#: includes/admin-metrica.php:297
+msgid "by months"
+msgstr ""
+
+#: includes/page-admin-metrica-view-data.php:2
+msgid "Traffic"
+msgstr ""
+
+#: includes/admin-counters.php:27 includes/admin-counters.php:28
+msgid "help"
+msgstr ""
+
+#: includes/admin-counters.php:28
+msgid "Yandex.Metrika"
+msgstr ""
+
+#: includes/admin-counters.php:29
+msgid "Google Search Console Help Center"
+msgstr ""
+
+#: includes/admin-counters.php:30
+msgid "Google Analytics Help Center"
+msgstr ""
+
+#: includes/admin-counters.php:36
+msgid "Overview"
+msgstr ""
+
+#: includes/admin-counters.php:42
+msgid "Help & support"
+msgstr ""
+
+#. Name of the plugin
+msgid "AB Metika"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple adding the most common counters to the site"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://ab-wp.com/projects/plugins/ab-metrika/"
+msgstr ""
+
+#. Author of the plugin
+msgid "AB-WP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ab-wp.com/"
+msgstr ""
